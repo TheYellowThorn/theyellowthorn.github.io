@@ -1,0 +1,1160 @@
+[
+	{
+		"title": "Parasite",
+		"director": "Bong Joon-ho",
+		"year": "2019",
+		"status": "Winner"
+	},
+	{
+		"title": "Ford v Ferrari",
+		"director": "James Mangold",
+		"year": "2019",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Irishman",
+		"director": "Martin Scorsese",
+		"year": "2019",
+		"status": "Nominee"
+	},
+	{
+		"title": "Jojo Rabbit",
+		"director": "Taika Waititi",
+		"year": "2019",
+		"status": "Nominee"
+	},
+	{
+		"title": "Joker",
+		"director": "Todd Phillips",
+		"year": "2019",
+		"status": "Nominee"
+	},
+	{
+		"title": "Little Women",
+		"director": "Greta Gerwig",
+		"year": "2019",
+		"status": "Nominee"
+	},
+	{
+		"title": "Marriage Story",
+		"director": "Noah Baumbach",
+		"year": "2019",
+		"status": "Nominee"
+	},
+	{
+		"title": "1917",
+		"director": "Sam Mendes",
+		"year": "2019",
+		"status": "Nominee"
+	},
+	{
+		"title": "Once Upon a Time in Hollywood",
+		"director": "Quentin Tarantino",
+		"year": "2019",
+		"status": "Nominee"
+	},
+	{
+		"title": "Green Book",
+		"director": "Peter Farrelly",
+		"year": "2018",
+		"status": "Winner"
+	},
+	{
+		"title": "Black Panther",
+		"director": "Ryan Coogler",
+		"year": "2018",
+		"status": "Nominee"
+	},
+	{
+		"title": "BlacKkKlansman",
+		"director": "Spike Lee",
+		"year": "2018",
+		"status": "Nominee"
+	},
+	{
+		"title": "Bohemian Rhapsody",
+		"director": "Bryan Singer",
+		"year": "2018",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Favourite",
+		"director": "Yorgos Lanthimos",
+		"year": "2018",
+		"status": "Nominee"
+	},
+	{
+		"title": "Roma",
+		"director": "Alfonso Cuarón",
+		"year": "2018",
+		"status": "Nominee"
+	},
+	{
+		"title": "A Star Is Born",
+		"director": "Bradley Cooper",
+		"year": "2018",
+		"status": "Nominee"
+	},
+	{
+		"title": "Vice",
+		"director": "Adam McKay",
+		"year": "2018",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Shape of Water",
+		"director": "Guillermo del Toro",
+		"year": "2017",
+		"status": "Winner"
+	},
+	{
+		"title": "Call Me by Your Name",
+		"director": "Luca Guadagnino",
+		"year": "2017",
+		"status": "Nominee"
+	},
+	{
+		"title": "Darkest Hour",
+		"director": "Joe Wright",
+		"year": "2017",
+		"status": "Nominee"
+	},
+	{
+		"title": "Dunkirk",
+		"director": "Christopher Nolan",
+		"year": "2017",
+		"status": "Nominee"
+	},
+	{
+		"title": "Get Out",
+		"director": "Jordan Peele",
+		"year": "2017",
+		"status": "Nominee"
+	},
+	{
+		"title": "Lady Bird",
+		"director": "Greta Gerwig",
+		"year": "2017",
+		"status": "Nominee"
+	},
+	{
+		"title": "Phantom Thread",
+		"director": "Paul Thomas Anderson",
+		"year": "2017",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Post",
+		"director": "Steven Spielberg",
+		"year": "2017",
+		"status": "Nominee"
+	},
+	{
+		"title": "Three Billboards Outside Ebbing, Missouri",
+		"director": "Martin McDonagh",
+		"year": "2017",
+		"status": "Nominee"
+	},
+	{
+		"title": "Moonlight",
+		"director": "Barry Jenkins",
+		"year": "2016",
+		"status": "Winner"
+	},
+	{
+		"title": "Arrival",
+		"director": "Denis Villeneuve",
+		"year": "2016",
+		"status": "Nominee"
+	},
+	{
+		"title": "Fences",
+		"director": "Denzel Washington",
+		"year": "2016",
+		"status": "Nominee"
+	},
+	{
+		"title": "Hacksaw Ridge",
+		"director": "Mel Gibson",
+		"year": "2016",
+		"status": "Nominee"
+	},
+	{
+		"title": "Hell or High Water",
+		"director": "David Mackenzie",
+		"year": "2016",
+		"status": "Nominee"
+	},
+	{
+		"title": "Hidden Figures",
+		"director": "Theodore Melfi",
+		"year": "2016",
+		"status": "Nominee"
+	},
+	{
+		"title": "La La Land",
+		"director": "Damien Chazelle",
+		"year": "2016",
+		"status": "Nominee"
+	},
+	{
+		"title": "Lion",
+		"director": "Garth Davis",
+		"year": "2016",
+		"status": "Nominee"
+	},
+	{
+		"title": "Manchester by the Sea",
+		"director": "Kenneth Lonergan",
+		"year": "2016",
+		"status": "Nominee"
+	},
+	{
+		"title": "Spotlight",
+		"director": "Tom McCarthy",
+		"year": "2015",
+		"status": "Winner"
+	},
+	{
+		"title": "The Big Short",
+		"director": "Adam McKay",
+		"year": "2015",
+		"status": "Nominee"
+	},
+	{
+		"title": "Bridge of Spies",
+		"director": "Steven Spielberg",
+		"year": "2015",
+		"status": "Nominee"
+	},
+	{
+		"title": "Brooklyn",
+		"director": "John Crowley",
+		"year": "2015",
+		"status": "Nominee"
+	},
+	{
+		"title": "Mad Max: Fury Road",
+		"director": "George Miller",
+		"year": "2015",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Martian",
+		"director": "Ridley Scott",
+		"year": "2015",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Revenant",
+		"director": "Alejandro González Iñárritu",
+		"year": "2015",
+		"status": "Nominee"
+	},
+	{
+		"title": "Room",
+		"director": "Lenny Abrahamson",
+		"year": "2015",
+		"status": "Nominee"
+	},
+	{
+		"title": "Birdman or (The Unexpected Virtue of Ignorance)",
+		"director": "Alejandro G. Iñárritu",
+		"year": "2014",
+		"status": "Winner"
+	},
+	{
+		"title": "American Sniper",
+		"director": "Clint Eastwood",
+		"year": "2014",
+		"status": "Nominee"
+	},
+	{
+		"title": "Boyhood",
+		"director": "Richard Linklater",
+		"year": "2014",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Grand Budapest Hotel",
+		"director": "Wes Anderson",
+		"year": "2014",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Imitation Game",
+		"director": "Morten Tyldum",
+		"year": "2014",
+		"status": "Nominee"
+	},
+	{
+		"title": "Selma",
+		"director": "Ava DuVernay",
+		"year": "2014",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Theory of Everything",
+		"director": "James Marsh",
+		"year": "2014",
+		"status": "Nominee"
+	},
+	{
+		"title": "Whiplash",
+		"director": "Damien Chazelle",
+		"year": "2014",
+		"status": "Nominee"
+	},
+	{
+		"title": "12 Years a Slave",
+		"director": "Steve McQueen",
+		"year": "2013",
+		"status": "Winner"
+	},
+	{
+		"title": "American Hustle",
+		"director": "David O. Russell",
+		"year": "2013",
+		"status": "Nominee"
+	},
+	{
+		"title": "Captain Phillips",
+		"director": "Paul Greengrass",
+		"year": "2013",
+		"status": "Nominee"
+	},
+	{
+		"title": "Dallas Buyers Club",
+		"director": "Jean-Marc Vallée",
+		"year": "2013",
+		"status": "Nominee"
+	},
+	{
+		"title": "Gravity",
+		"director": "Alfonso Cuarón",
+		"year": "2013",
+		"status": "Nominee"
+	},
+	{
+		"title": "Her",
+		"director": "Spike Jonze",
+		"year": "2013",
+		"status": "Nominee"
+	},
+	{
+		"title": "Nebraska",
+		"director": "Alexander Payne",
+		"year": "2013",
+		"status": "Nominee"
+	},
+	{
+		"title": "Philomena",
+		"director": "Stephen Frears",
+		"year": "2013",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Wolf of Wall Street",
+		"director": "Martin Scorsese",
+		"year": "2013",
+		"status": "Nominee"
+	},
+	{
+		"title": "Argo",
+		"director": "Ben Affleck",
+		"year": "2012",
+		"status": "Winner"
+	},
+	{
+		"title": "Amour",
+		"director": "Michael Haneke",
+		"year": "2012",
+		"status": "Nominee"
+	},
+	{
+		"title": "Beasts of the Southern Wild",
+		"director": "Benh Zeitlin",
+		"year": "2012",
+		"status": "Nominee"
+	},
+	{
+		"title": "Django Unchained",
+		"director": "Quentin Tarantino",
+		"year": "2012",
+		"status": "Nominee"
+	},
+	{
+		"title": "Les Misérables",
+		"director": "Tom Hooper",
+		"year": "2012",
+		"status": "Nominee"
+	},
+	{
+		"title": "Life of Pi",
+		"director": "Ang Lee",
+		"year": "2012",
+		"status": "Nominee"
+	},
+	{
+		"title": "Lincoln",
+		"director": "Steven Spielberg",
+		"year": "2012",
+		"status": "Nominee"
+	},
+	{
+		"title": "Silver Linings Playbook",
+		"director": "David O. Russell",
+		"year": "2012",
+		"status": "Nominee"
+	},
+	{
+		"title": "Zero Dark Thirty",
+		"director": "Kathryn Bigelow",
+		"year": "2012",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Artist",
+		"director": "Michel Hazanavicius",
+		"year": "2011",
+		"status": "Winner"
+	},
+	{
+		"title": "The Descendants",
+		"director": "Alexander Payne",
+		"year": "2011",
+		"status": "Nominee"
+	},
+	{
+		"title": "Extremely Loud & Incredibly Close",
+		"director": "Stephen Daldry",
+		"year": "2011",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Help",
+		"director": "Tate Taylor",
+		"year": "2011",
+		"status": "Nominee"
+	},
+	{
+		"title": "Hugo",
+		"director": "Martin Scorsese",
+		"year": "2011",
+		"status": "Nominee"
+	},
+	{
+		"title": "Midnight in Paris",
+		"director": "Woody Allen",
+		"year": "2011",
+		"status": "Nominee"
+	},
+	{
+		"title": "Moneyball",
+		"director": "Bennett Miller",
+		"year": "2011",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Tree of Life",
+		"director": "Terrence Malick",
+		"year": "2011",
+		"status": "Nominee"
+	},
+	{
+		"title": "War Horse",
+		"director": "Steven Spielberg",
+		"year": "2011",
+		"status": "Nominee"
+	},
+	{
+		"title": "The King's Speech",
+		"director": "Tom Hooper",
+		"year": "2010",
+		"status": "Winner"
+	},
+	{
+		"title": "127 Hours",
+		"director": "Danny Boyle",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "Black Swan",
+		"director": "Darren Aronofsky",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Fighter",
+		"director": "David O. Russell",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "Inception",
+		"director": "Christopher Nolan",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Kids Are All Right",
+		"director": "Lisa Cholodenko",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Social Network",
+		"director": "David Fincher",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "Toy Story 3",
+		"director": "Lee Unkrich",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "True Grit",
+		"director": "Coen brothers",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "Winter's Bone",
+		"director": "Debra Granik",
+		"year": "2010",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Hurt Locker",
+		"director": "Kathryn Bigelow",
+		"year": "2009",
+		"status": "Winner"
+	},
+	{
+		"title": "Avatar",
+		"director": "James Cameron",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Blind Side",
+		"director": "John Lee Hancock",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "District 9",
+		"director": "Neill Blomkamp",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "An Education",
+		"director": "Lone Scherfig",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "Inglourious Basterds",
+		"director": "Quentin Tarantino",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "Precious: Based on the Novel 'Push' by Sapphire",
+		"director": "Lee Daniels",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "A Serious Man",
+		"director": "Joel and Ethan Coen",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "Up",
+		"director": "Pete Docter",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "Up in the Air",
+		"director": "Jason Reitman",
+		"year": "2009",
+		"status": "Nominee"
+	},
+	{
+		"title": "Slumdog Millionaire",
+		"director": "Danny Boyle",
+		"year": "2008",
+		"status": "Winner"
+	},
+	{
+		"title": "The Curious Case of Benjamin Button",
+		"director": "David Fincher",
+		"year": "2008",
+		"status": "Nominee"
+	},
+	{
+		"title": "Frost/Nixon",
+		"director": "Ron Howard",
+		"year": "2008",
+		"status": "Nominee"
+	},
+	{
+		"title": "Milk",
+		"director": "Gus Van Sant",
+		"year": "2008",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Reader",
+		"director": "Stephen Daldry",
+		"year": "2008",
+		"status": "Nominee"
+	},
+	{
+		"title": "No Country for Old Men",
+		"director": "Joel and Ethan Coen",
+		"year": "2007",
+		"status": "Winner"
+	},
+	{
+		"title": "Atonement",
+		"director": "Joe Wright",
+		"year": "2007",
+		"status": "Nominee"
+	},
+	{
+		"title": "Juno",
+		"director": "Jason Reitman",
+		"year": "2007",
+		"status": "Nominee"
+	},
+	{
+		"title": "Michael Clayton",
+		"director": "Tony Gilroy",
+		"year": "2007",
+		"status": "Nominee"
+	},
+	{
+		"title": "There Will Be Blood",
+		"director": "Paul Thomas Anderson",
+		"year": "2007",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Departed",
+		"director": "Martin Scorsese",
+		"year": "2006",
+		"status": "Winner"
+	},
+	{
+		"title": "Babel",
+		"director": "Alejandro González Iñárritu",
+		"year": "2006",
+		"status": "Nominee"
+	},
+	{
+		"title": "Letters from Iwo Jima",
+		"director": "Clint Eastwood",
+		"year": "2006",
+		"status": "Nominee"
+	},
+	{
+		"title": "Little Miss Sunshine",
+		"director": "Jonathan Dayton and Valerie Faris",
+		"year": "2006",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Queen",
+		"director": "Stephen Frears",
+		"year": "2006",
+		"status": "Nominee"
+	},
+	{
+		"title": "Crash",
+		"director": "Paul Haggis",
+		"year": "2005",
+		"status": "Winner"
+	},
+	{
+		"title": "Brokeback Mountain",
+		"director": "Ang Lee",
+		"year": "2005",
+		"status": "Nominee"
+	},
+	{
+		"title": "Capote",
+		"director": "Bennett Miller",
+		"year": "2005",
+		"status": "Nominee"
+	},
+	{
+		"title": "Good Night, and Good Luck",
+		"director": "George Clooney",
+		"year": "2005",
+		"status": "Nominee"
+	},
+	{
+		"title": "Munich",
+		"director": "Steven Spielberg",
+		"year": "2005",
+		"status": "Nominee"
+	},
+	{
+		"title": "Million Dollar Baby",
+		"director": "Clint Eastwood",
+		"year": "2004",
+		"status": "Winner"
+	},
+	{
+		"title": "The Aviator",
+		"director": "Martin Scorsese",
+		"year": "2004",
+		"status": "Nominee"
+	},
+	{
+		"title": "Finding Neverland",
+		"director": "Marc Forster",
+		"year": "2004",
+		"status": "Nominee"
+	},
+	{
+		"title": "Ray",
+		"director": "Taylor Hackford",
+		"year": "2004",
+		"status": "Nominee"
+	},
+	{
+		"title": "Sideways",
+		"director": "Alexander Payne",
+		"year": "2004",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Lord of the Rings: The Return of the King",
+		"director": "Peter Jackson",
+		"year": "2003",
+		"status": "Winner"
+	},
+	{
+		"title": "Lost in Translation",
+		"director": "Sofia Coppola",
+		"year": "2003",
+		"status": "Nominee"
+	},
+	{
+		"title": "Master and Commander: The Far Side of the World",
+		"director": "Peter Weir",
+		"year": "2003",
+		"status": "Nominee"
+	},
+	{
+		"title": "Mystic River",
+		"director": "Clint Eastwood",
+		"year": "2003",
+		"status": "Nominee"
+	},
+	{
+		"title": "Seabiscuit",
+		"director": "Gary Ross",
+		"year": "2003",
+		"status": "Nominee"
+	},
+	{
+		"title": "Chicago",
+		"director": "Rob Marshall",
+		"year": "2002",
+		"status": "Winner"
+	},
+	{
+		"title": "Gangs of New York",
+		"director": "Martin Scorsese",
+		"year": "2002",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Hours",
+		"director": "Stephen Daldry",
+		"year": "2002",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Lord of the Rings: The Two Towers",
+		"director": "Peter Jackson",
+		"year": "2002",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Pianist",
+		"director": "Roman Polanski",
+		"year": "2002",
+		"status": "Nominee"
+	},
+	{
+		"title": "A Beautiful Mind",
+		"director": "Ron Howard",
+		"year": "2001",
+		"status": "Winner"
+	},
+	{
+		"title": "Gosford Park",
+		"director": "Robert Altman",
+		"year": "2001",
+		"status": "Nominee"
+	},
+	{
+		"title": "In the Bedroom",
+		"director": "Todd Field",
+		"year": "2001",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Lord of the Rings: The Fellowship of the Ring",
+		"director": "Peter Jackson",
+		"year": "2001",
+		"status": "Nominee"
+	},
+	{
+		"title": "Moulin Rouge!",
+		"director": "Baz Luhrmann",
+		"year": "2001",
+		"status": "Nominee"
+	},
+	{
+		"title": "Gladiator",
+		"director": "Ridley Scott",
+		"year": "2000",
+		"status": "Winner"
+	},
+	{
+		"title": "Chocolat",
+		"director": "Lasse Hallström",
+		"year": "2000",
+		"status": "Nominee"
+	},
+	{
+		"title": "Crouching Tiger, Hidden Dragon",
+		"director": "Ang Lee",
+		"year": "2000",
+		"status": "Nominee"
+	},
+	{
+		"title": "Erin Brockovich",
+		"director": "Steven Soderbergh",
+		"year": "2000",
+		"status": "Nominee"
+	},
+	{
+		"title": "Traffic",
+		"director": "Steven Soderbergh",
+		"year": "2000",
+		"status": "Nominee"
+	},
+	{
+		"title": "American Beauty",
+		"director": "Sam Mendes",
+		"year": "1999",
+		"status": "Winner"
+	},
+	{
+		"title": "The Cider House Rules",
+		"director": "Lasse Hallström",
+		"year": "1999",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Green Mile",
+		"director": "Frank Darabont",
+		"year": "1999",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Insider",
+		"director": "Michael Mann",
+		"year": "1999",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Sixth Sense",
+		"director": "M. Night Shyamalan",
+		"year": "1999",
+		"status": "Nominee"
+	},
+	{
+		"title": "Shakespeare in Love",
+		"director": "John Madden",
+		"year": "1998",
+		"status": "Winner"
+	},
+	{
+		"title": "Elizabeth",
+		"director": "Shekhar Kapur",
+		"year": "1998",
+		"status": "Nominee"
+	},
+	{
+		"title": "Life Is Beautiful",
+		"director": "Roberto Benigni",
+		"year": "1998",
+		"status": "Nominee"
+	},
+	{
+		"title": "Saving Private Ryan",
+		"director": "Steven Spielberg",
+		"year": "1998",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Thin Red Line",
+		"director": "Terrence Malick",
+		"year": "1998",
+		"status": "Nominee"
+	},
+	{
+		"title": "Titanic",
+		"director": "James Cameron",
+		"year": "1997",
+		"status": "Winner"
+	},
+	{
+		"title": "As Good as It Gets",
+		"director": "James L. Brooks",
+		"year": "1997",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Full Monty",
+		"director": "Peter Cattaneo",
+		"year": "1997",
+		"status": "Nominee"
+	},
+	{
+		"title": "Good Will Hunting",
+		"director": "Gus Van Sant",
+		"year": "1997",
+		"status": "Nominee"
+	},
+	{
+		"title": "L.A. Confidential",
+		"director": "Curtis Hanson",
+		"year": "1997",
+		"status": "Nominee"
+	},
+	{
+		"title": "The English Patient",
+		"director": "Anthony Minghella",
+		"year": "1996",
+		"status": "Winner"
+	},
+	{
+		"title": "Fargo",
+		"director": "Joel and Ethan Coen",
+		"year": "1996",
+		"status": "Nominee"
+	},
+	{
+		"title": "Jerry Maguire",
+		"director": "Cameron Crowe",
+		"year": "1996",
+		"status": "Nominee"
+	},
+	{
+		"title": "Secrets & Lies",
+		"director": "Mike Leigh",
+		"year": "1996",
+		"status": "Nominee"
+	},
+	{
+		"title": "Shine",
+		"director": "Scott Hicks",
+		"year": "1996",
+		"status": "Nominee"
+	},
+	{
+		"title": "Braveheart",
+		"director": "Mel Gibson",
+		"year": "1995",
+		"status": "Winner"
+	},
+	{
+		"title": "Apollo 13",
+		"director": "Ron Howard",
+		"year": "1995",
+		"status": "Nominee"
+	},
+	{
+		"title": "Babe",
+		"director": "Chris Noonan",
+		"year": "1995",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Postman (Il Postino)",
+		"director": "Massimo Troisi",
+		"year": "1995",
+		"status": "Nominee"
+	},
+	{
+		"title": "Sense and Sensibility",
+		"director": "Ang Lee",
+		"year": "1995",
+		"status": "Nominee"
+	},
+	{
+		"title": "Forest Gump",
+		"director": "Robert Zemeckis",
+		"year": "1994",
+		"status": "Winner"
+	},
+	{
+		"title": "Four Weddings and a Funeral",
+		"director": "Mike Newell",
+		"year": "1994",
+		"status": "Nominee"
+	},
+	{
+		"title": "Pulp Fiction",
+		"director": "Quentin Tarantino",
+		"year": "1994",
+		"status": "Nominee"
+	},
+	{
+		"title": "Quiz Show",
+		"director": "Robert Redford",
+		"year": "1994",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Shawshank Redemption",
+		"director": "Frank Darabont",
+		"year": "1994",
+		"status": "Nominee"
+	},
+	{
+		"title": "Schindler’s List",
+		"director": "Steven Spielberg",
+		"year": "1993",
+		"status": "Winner"
+	},
+	{
+		"title": "The Fugitive",
+		"director": "Andrew Davis",
+		"year": "1993",
+		"status": "Nominee"
+	},
+	{
+		"title": "In the Name of the Father",
+		"director": "Jim Sheridan",
+		"year": "1993",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Piano",
+		"director": "Jane Campion",
+		"year": "1993",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Remains of the Day",
+		"director": "James Ivory",
+		"year": "1993",
+		"status": "Nominee"
+	},
+	{
+		"title": "Unforgiven",
+		"director": "Clint Eastwood",
+		"year": "1992",
+		"status": "Winner"
+	},
+	{
+		"title": "The Crying Game",
+		"director": "Neil Jordan",
+		"year": "1992",
+		"status": "Nominee"
+	},
+	{
+		"title": "A Few Good Men",
+		"director": "Rob Reiner",
+		"year": "1992",
+		"status": "Nominee"
+	},
+	{
+		"title": "Howards End",
+		"director": "James Ivory",
+		"year": "1992",
+		"status": "Nominee"
+	},
+	{
+		"title": "Scent of a Woman",
+		"director": "Martin Brest",
+		"year": "1992",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Silence of the Lambs",
+		"director": "Jonathan Demme",
+		"year": "1991",
+		"status": "Winner"
+	},
+	{
+		"title": "Beauty and the Beast",
+		"director": "Jean Cocteau",
+		"year": "1991",
+		"status": "Nominee"
+	},
+	{
+		"title": "Bugsy",
+		"director": "Barry Levinson",
+		"year": "1991",
+		"status": "Nominee"
+	},
+	{
+		"title": "JFK",
+		"director": "Oliver Stone",
+		"year": "1991",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Prince of Tides",
+		"director": "Barbra Streisand",
+		"year": "1991",
+		"status": "Nominee"
+	},
+	{
+		"title": "Dances with Wolves",
+		"director": "Kevin Costner",
+		"year": "1990",
+		"status": "Winner"
+	},
+	{
+		"title": "Awakenings",
+		"director": "Penny Marshall",
+		"year": "1990",
+		"status": "Nominee"
+	},
+	{
+		"title": "Ghost",
+		"director": "Jerry Zucker",
+		"year": "1990",
+		"status": "Nominee"
+	},
+	{
+		"title": "The Godfather Part III",
+		"director": "Francis Ford Coppola",
+		"year": "1990",
+		"status": "Nominee"
+	},
+	{
+		"title": "Goodfellas",
+		"director": "Martin Scorsese",
+		"year": "1990",
+		"status": "Nominee"
+	}
+]

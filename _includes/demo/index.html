@@ -1,0 +1,57 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Tablejs Demo</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+    crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,500,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../tablejs/demo/example/styles.css">
+</head>
+
+<body onload="onLoad()">
+  <app-root></app-root>
+  <script src="../tablejs/demo/example/runtime-es2015.js?v=2" type="module"></script>
+  <script src="../tablejs/demo/example/polyfills-es2015.js?v=2" type="module"></script>
+  <script src="../tablejs/demo/example/runtime-es5.js?v=2" nomodule></script>
+  <script src="../tablejs/demo/example/polyfills-es5.js?v=2" nomodule></script>
+  <script src="../tablejs/demo/example/main-es2015.js?v=2" type="module"></script>
+  <script src="../tablejs/demo/example/main-es5.js?v=2" nomodule></script>
+</body>
+
+</html>
+
+<script>
+  function onLoad() {
+    var grids = Array.from(document.getElementsByTagName('tablejs-grid'));
+    var grid = grids[0];
+    grid.addEventListener('onResizeStart', function(e) {
+      // console.log('resizing start');
+      // console.log(e.detail);
+    });
+    grid.addEventListener('onResize', function(e) {
+      // console.log('resizing');
+      // console.log(e.detail);
+    });
+    grid.addEventListener('onResizeEnd', function(e) {
+      // console.log('resizing end');
+      // console.log(e.detail);
+    });
+    grid.addEventListener('onReorderStart', function(e) {
+      // console.log('reordering start');
+      // console.log(e.detail);
+    });
+    grid.addEventListener('onReorder', function(e) {
+      // console.log('reordering');
+      // console.log(e.detail);
+    });
+    grid.addEventListener('onReorderEnd', function(e) {
+      // console.log('reordering end');
+      // console.log(e.detail);
+    });
+  }
+</script>

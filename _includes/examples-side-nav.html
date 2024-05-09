@@ -1,0 +1,48 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+    crossorigin="anonymous">
+
+<h1>{{ site.title }}</h1>
+<ul id='links'>
+
+	{% for post in site.posts reversed %}
+  	{% if post.page == 'examples' %}
+		{% if post.category == null %}
+		<li><a href='#{{ post.url }}'>{{ post.title }}</a></li>
+		{% endif %}
+	{% endif %}
+	{% endfor %}
+	
+	{% for category in site.categories reversed %}
+	{% for posts in category reversed %}
+		{% for post in posts %}   
+		{% if post.page == 'examples' %} 
+
+		{% endif %}
+	{% endfor %}
+    {% endfor %}
+  <li>
+    <ul class="examples-ul">
+		{% for posts in category reversed %}
+			{% for post in posts %}    
+				{% if post.page == 'examples' %}
+					{% if post.title %}   
+					<li class='{{ post.type }}'>
+							{%- assign subcategory = post.subcategory -%}
+							{% if (subcategory and lastSubcategory != subcategory) %}
+								<h2 class="subcategory-title">{{ subcategory }}</h2>
+								{%- assign lastSubcategory = subcategory -%}
+							{% endif %}
+							{% if subcategory %}
+								<a class="indent-20" href='#{{ post.url }}'>{{ post.title }}</a>
+							{% else %}
+								<a href='#{{ post.url }}'>{{ post.title }}</a>
+							{% endif %}
+					</li>
+					{% endif %}
+				{% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>

@@ -1,0 +1,37 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+    crossorigin="anonymous">
+
+<h1>{{ site.title }}</h1>
+<ul id='links'>
+	
+  {% for post in site.posts reversed %}
+  	{% if post.page == 'examples' %}
+		{% if post.category == null %}
+		<li><a href='#{{ post.url }}'>{{ post.title }}</a></li>
+		{% endif %}
+	{% endif %}
+	{% endfor %}
+	
+	{% for category in site.categories reversed %}
+	{% for posts in category reversed %}
+		{% for post in posts %}   
+		{% if post.page == 'examples' %} 
+			<h2>{{ post.ucat }}</h2>
+		{% endif %}
+	{% endfor %}
+    {% endfor %}
+  <li>
+    <ul>
+    {% for posts in category reversed %}
+	  {% for post in posts %}    
+		{% if post.page == 'examples' %}
+			{% if post.title %}    
+			<li class='{{ post.type }}'><a href='#{{ post.url }}'>{{ post.title }}</a></li>
+			{% endif %}
+		{% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>

@@ -1,0 +1,172 @@
+[
+	  { 
+		"index": 1,
+		"name": "Getting Started",
+		"category": "Beginner Tutorials",
+		"route": {
+			"path": "getting-started",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-getting-started-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/getting-started-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Reorder Columns",
+		"category": "Beginner Tutorials",
+		"route": {
+			"path": "reorder",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-reorder-columns-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-reorder-columns-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Resize Columns (px)",
+		"category": "Beginner Tutorials",
+		"route": {
+			"path": "resize-px",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-resize-px-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-resize-px-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Resize Columns (%)",
+		"category": "Beginner Tutorials",
+		"route": {
+			"path": "resize-perc",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-resize-percent-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-resize-percent-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Resize & Reorder Events",
+		"category": "Beginner Tutorials",
+		"route": {
+			"path": "resize-reorder-events",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-events-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-events-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Editable Cells",
+		"category": "Beginner Tutorials",
+		"route": {
+			"path": "editable-cells",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-editable-cells-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-editable-cells-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Show & Hide Columns",
+		"category": "Intermediate Tutorials",
+		"route": {
+			"path": "hiding-columns",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-show-hide-columns-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-show-hide-columns-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Virtual Scrolling",
+		"category": "Intermediate Tutorials",
+		"route": {
+			"path": "virtual-scrolling",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-infinite-scroll-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-infinite-scroll-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Reorder Rows",
+		"category": "Intermediate Tutorials",
+		"route": {
+			"path": "reorder-row",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-reorder-row-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-reorder-row-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Simple Sort",
+		"category": "Intermediate Tutorials",
+		"route": {
+			"path": "simple-sort",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-sort-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-sort-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Simple Filter",
+		"category": "Intermediate Tutorials",
+		"route": {
+			"path": "simple-filter",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-filter-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-filter-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Loading Data",
+		"category": "Intermediate Tutorials",
+		"route": {
+			"path": "loading-data",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-loading-data-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-loading-data-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Nested Headers",
+		"category": "Intermediate Tutorials",
+		"route": {
+			"path": "nested-headers",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-nested-headers-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-nested-headers-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Complex Filter & Sorting",
+		"category": "Advanced Tutorials",
+		"route": {
+			"path": "filter-and-sort",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-sort-and-filter-module-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-sort-and-filter-module-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Linked Tables",
+		"category": "Advanced Tutorials",
+		"route": {
+			"path": "linked-tables",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-linked-tables-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-linked-tables-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Pagination",
+		"category": "Advanced Tutorials",
+		"route": {
+			"path": "pagination",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-pagination-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-pagination-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Tree View",
+		"category": "Advanced Tutorials",
+		"route": {
+			"path": "tree-view",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-tree-view-legacy?file=src%2Fapp%2Fapp.component.ts",
+			"url": "https://stackblitz.com/edit/tablejs-tree-view-ivy?file=src%2Fapp%2Fapp.component.ts"
+		}
+	  }
+]

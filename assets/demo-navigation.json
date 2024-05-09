@@ -1,0 +1,162 @@
+[
+	  { 
+		"index": 2,
+		"name": "Complex Filter & Sorting",
+		"category": "Filter & Sort",
+		"route": {
+			"path": "filter-and-sort",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-sort-and-filter-module?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Getting Started",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/getting-started",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-getting-started-gn758b?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Reorder",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/reorder",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-reorder-columns-jjkv3c?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Resize (px)",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/resize-px",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-resize-px-oh2a4n?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Resize (%)",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/resize-perc",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-resize-percent-ueuf7a?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Hiding Columns",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/hiding-columns",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-resize-percent-rvqrny?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Resize & Reorder Events",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/resize-reorder-events",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-events-liucxt?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Virtual Scrolling",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/virtual-scrolling",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-infinite-scroll-s18wfh?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Simple Sort",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/simple-sort",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-resize-percent-ekfuje?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Simple Filter",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/simple-filter",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-resize-percent-osclug?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Editable Cells",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/editable-cells",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-editable-cells-1i8eov?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Loading Data",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/loading-data",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-resize-percent-c9791y?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Nested Headers",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/nested-headers",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-nested-headers-vttc1e?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Linked Tables",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/linked-tables",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-linked-tables-tfadch?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Pagination",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/pagination",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-pagination-ovkqcf?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  },
+	  { 
+		"index": 1,
+		"name": "Tree View",
+		"category": "Tutorials",
+		"route": {
+			"path": "tutorials/tree-view",
+			"legacyUrl": "https://stackblitz.com/edit/tablejs-infinite-scroll-vghnkr?file=src%2Fapp%2Fapp.component.ts",
+			"url": ""
+		}
+	  }
+]
