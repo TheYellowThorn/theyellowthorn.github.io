@@ -6,7 +6,7 @@ layout: null
 ---
 
 ```typescript
-import { SortDirection } from '@transunion-ui/tablejs';
+import { SortDirection } from '@tablejs/community';
 ```
 
 #### Description:

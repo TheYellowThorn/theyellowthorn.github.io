@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[tablejsScrollViewport]`
 ```typescript
-import { ScrollViewportDirective } from '@transunion-ui/tablejs';
+import { ScrollViewportDirective } from '@tablejs/community';
 ```
 
 #### Description:

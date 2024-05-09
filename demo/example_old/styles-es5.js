@@ -598,8 +598,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/mgouwen/Desktop/Transunion/tablejs-demo/src/variables.scss */"./src/variables.scss");
-module.exports = __webpack_require__(/*! /Users/mgouwen/Desktop/Transunion/tablejs-demo/src/styles.scss */"./src/styles.scss");
+__webpack_require__("./src/variables.scss");
+module.exports = __webpack_require__("./src/styles.scss");
 
 
 /***/ })

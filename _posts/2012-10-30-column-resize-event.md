@@ -9,7 +9,7 @@ layout: null
 #### Version Available: `All Versions`
 
 ```typescript
-import { ColumnResizeEvent } from '@transunion-ui/tablejs';
+import { ColumnResizeEvent } from '@tablejs/community';
 ```
 
 #### Description:

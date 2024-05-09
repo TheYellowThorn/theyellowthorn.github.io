@@ -269,7 +269,7 @@ And below is our full `HTML` event method implementation.
 With all our resize and reorder [Outputs](https://angular.io/api/core/Output) defined, our `Typescript` should look like the following:
 
 ```typescript
-import { ColumnResizeEvent, ColumnReorderEvent } from '@transunion-ui/tablejs';
+import { ColumnResizeEvent, ColumnReorderEvent } from '@tablejs/community';
 
 export class EventHandling {
   columnResizeStart(e: ColumnResizeEvent) {

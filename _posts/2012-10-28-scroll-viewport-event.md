@@ -8,7 +8,7 @@ layout: null
 #### Version Available: `1.2.0 or higher, 2.0.0 or higher`
 
 ```typescript
-import { ScrollViewportEvent } from '@transunion-ui/tablejs';
+import { ScrollViewportEvent } from '@tablejs/community';
 ```
 
 #### Description:

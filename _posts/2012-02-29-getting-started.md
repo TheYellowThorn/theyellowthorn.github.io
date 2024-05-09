@@ -8,7 +8,7 @@ layout: null
 
 ## Installation
 ```bash
-$ npm install --save @transunion-ui/tablejs
+$ npm install --save @tablejs/community
 ```
 
 ## Implementation
@@ -16,7 +16,7 @@ $ npm install --save @transunion-ui/tablejs
 ### Set Up
 1\. Import the `TablejsModule` into your app.module.ts file.
 ```typescript
-import { TablejsModule } from '@transunion-ui/tablejs';
+import { TablejsModule } from '@tablejs/community';
 ```
 2\. Add the `TablejsModule` to the list of imports in your app.module.ts file.
 ```typescript

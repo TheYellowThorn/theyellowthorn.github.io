@@ -7,7 +7,7 @@ layout: null
 
 ### Selector: `[tablejs-scroll-prev-spacer]`
 ```typescript
-import { ScrollPrevSpacerComponent } from '@transunion-ui/tablejs';
+import { ScrollPrevSpacerComponent } from '@tablejs/community';
 ```
 
 #### Description:

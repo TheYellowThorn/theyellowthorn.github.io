@@ -7,7 +7,7 @@ layout: null
 ---
 
 ```typescript
-import { IFilterOptions } from '@transunion-ui/tablejs';
+import { IFilterOptions } from '@tablejs/community';
 ```
 
 #### Description:

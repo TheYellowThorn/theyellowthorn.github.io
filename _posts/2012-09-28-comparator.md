@@ -8,7 +8,7 @@ layout: null
 #### Version Available: `1.3.0 or higher, 2.0.0 or higher`
 
 ```typescript
-import { Comparator } from '@transunion-ui/tablejs';
+import { Comparator } from '@tablejs/community';
 ```
 
 #### Description:

@@ -7,7 +7,7 @@ layout: null
 ---
 
 ```typescript
-import { MatchType } from '@transunion-ui/tablejs';
+import { MatchType } from '@tablejs/community';
 ```
 
 #### Description:

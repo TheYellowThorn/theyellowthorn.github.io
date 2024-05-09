@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[resizableGrip]`
 ```typescript
-import { ResizableGripDirective } from '@transunion-ui/tablejs';
+import { ResizableGripDirective } from '@tablejs/community';
 ```
 
 #### Description:

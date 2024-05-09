@@ -7,7 +7,7 @@ layout: null
 
 ### Selector: `[tablejs-drag-and-drop-ghost]`
 ```typescript
-import { DragAndDropGhostComponent } from '@transunion-ui/tablejs';
+import { DragAndDropGhostComponent } from '@tablejs/community';
 ```
 
 #### Description:

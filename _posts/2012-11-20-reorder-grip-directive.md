@@ -10,7 +10,7 @@ layout: null
 
 ### Selector: `[reorderGrip]`
 ```typescript
-import { ReorderGripDirective } from '@transunion-ui/tablejs';
+import { ReorderGripDirective } from '@tablejs/community';
 ```
 
 #### Description:

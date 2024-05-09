@@ -6,7 +6,7 @@ layout: null
 ---
 
 ```typescript
-import { IColumnHierarchy } from '@transunion-ui/tablejs';
+import { IColumnHierarchy } from '@tablejs/community';
 ```
 
 #### Description:

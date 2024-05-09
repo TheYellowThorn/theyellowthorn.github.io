@@ -8,7 +8,7 @@ layout: null
 #### Version Available: `1.4.9 or higher, 2.1.9 or higher`
 
 ```typescript
-import { TablejsVirtualForOf } from '@transunion-ui/tablejs';
+import { TablejsVirtualForOf } from '@tablejs/community';
 ```
 
 #### Description:

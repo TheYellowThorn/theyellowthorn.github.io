@@ -8,7 +8,7 @@ layout: null
 #### Version Available: `1.3.0 or higher, 2.0.0 or higher`
 
 ```typescript
-import { FilterOptions } from '@transunion-ui/tablejs';
+import { FilterOptions } from '@tablejs/community';
 ```
 
 #### Description:
@@ -35,7 +35,7 @@ A set of filter options for filtering an array of items.  Implements `IFilterOpt
 Below is an `Typescript` implementation where an array of objects holding IDs are all filtered by their ID value. In this case, IDs that are greater than or equal to 2 will be returned. 
 
 ```typescript
-import {FilterOptions, FilterComparator, FilterSortService, MatchType} from '@transunion-ui/tablejs';
+import {FilterOptions, FilterComparator, FilterSortService, MatchType} from '@tablejs/community';
 
 export class VariableIdentifier implements OnInit {
     items: any[] = [{id: 1}, {id: 4}, {id: 2}, {id: 8}, {id: 21}];
@@ -71,7 +71,7 @@ export class VariableIdentifier implements OnInit {
 Below is a `Typescript` implementation where an array of objects holding a person's favorite food are all filtered by a common string they each contain. In this case, the objects containing a given person's name and their favorite food will both be filtered if both properties' values contain the string 'Che'.
 
 ```typescript
-import {FilterOptions, FilterComparator, FilterSortService, MatchType} from '@transunion-ui/tablejs';
+import {FilterOptions, FilterComparator, FilterSortService, MatchType} from '@tablejs/community';
 
 export class MultipleVariableIdentifier implements OnInit {
     characterDetails: any[] = [{name: 'Chester Cheetah', food: 'Cheetos'}, {name: 'Mickey Mouse', food: 'Cheese'}];
@@ -107,7 +107,7 @@ export class MultipleVariableIdentifier implements OnInit {
 Below is a `Typescript` implementation where using `MatchType.ANY` will return an item if either its price or its tax rate are greater than 0.099.
 
 ```typescript
-import {FilterOptions, FilterComparator, FilterSortService, MatchType} from '@transunion-ui/tablejs';
+import {FilterOptions, FilterComparator, FilterSortService, MatchType} from '@tablejs/community';
 
 export class MatchTypeAny implements OnInit {
     items: any[] = [{price: 342.07, taxRate: 0.095}, {price: 12.19, taxRate: 0.1}, {price: 0.099, taxRate: 0.05}];
@@ -143,7 +143,7 @@ export class MatchTypeAny implements OnInit {
 Below is a `Typescript` implementation that uses a mapper function to convert the numeric price value into a string value. Filtering is then done on the string value returned from the mapper function.
 
 ```typescript
-import {FilterOptions, FilterComparator, FilterSortService, MatchType} from '@transunion-ui/tablejs';
+import {FilterOptions, FilterComparator, FilterSortService, MatchType} from '@tablejs/community';
 
 export class VariableMapperExample implements OnInit {
     items: any[] = [{price: 342.07}, {price: 12.19}, {price: 45.59}, {price: 21.00}];
@@ -189,7 +189,7 @@ export class VariableMapperExample implements OnInit {
 Below is a `Typescript` implementation that filters a set of objects between a range of 20 to 25.
 
 ```typescript
-import {FilterOptions, FilterComparator, FilterSortService} from '@transunion-ui/tablejs';
+import {FilterOptions, FilterComparator, FilterSortService} from '@tablejs/community';
 
 export class MultipleFilterOptions implements OnInit {
     prices: any[] = [{price: 342.07}, {price: 12.19}, {price: 45.59}, {price: 21.00}];

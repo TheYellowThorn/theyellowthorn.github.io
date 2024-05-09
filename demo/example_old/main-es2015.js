@@ -4955,7 +4955,7 @@ platform_browser_dynamic_1.platformBrowserDynamic().bootstrapModule(app_module_1
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/mgouwen/Desktop/Transunion/tablejs-demo/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__("./src/main.ts");
 
 
 /***/ }),

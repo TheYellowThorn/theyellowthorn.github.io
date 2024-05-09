@@ -6,7 +6,7 @@ layout: null
 ---
 
 ```typescript
-import { ISortOptions } from '@transunion-ui/tablejs';
+import { ISortOptions } from '@tablejs/community';
 ```
 
 #### Description:

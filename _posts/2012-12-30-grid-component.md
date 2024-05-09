@@ -10,7 +10,7 @@ layout: null
 
 ### Selector: `[tablejs-grid]`
 ```typescript
-import { GridComponent } from '@transunion-ui/tablejs';
+import { GridComponent } from '@tablejs/community';
 ```
 
 #### Description:

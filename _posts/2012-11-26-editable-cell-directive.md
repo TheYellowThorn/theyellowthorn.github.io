@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[tablejsEditableCell]`
 ```typescript
-import { EditableCellDirective } from '@transunion-ui/tablejs';
+import { EditableCellDirective } from '@tablejs/community';
 ```
 
 #### Description:

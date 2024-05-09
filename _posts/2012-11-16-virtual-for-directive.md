@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[tablejsVirtualFor]`
 ```typescript
-import { VirtualForDirective } from '@transunion-ui/tablejs';
+import { VirtualForDirective } from '@tablejs/community';
 ```
 
 #### Description:

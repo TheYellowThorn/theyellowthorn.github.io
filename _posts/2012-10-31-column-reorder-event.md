@@ -8,7 +8,7 @@ layout: null
 #### Versions Available: `All Versions`
 
 ```typescript
-import { ColumnReorderEvent } from '@transunion-ui/tablejs';
+import { ColumnReorderEvent } from '@tablejs/community';
 ```
 
 #### Description:

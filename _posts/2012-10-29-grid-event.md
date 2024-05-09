@@ -8,7 +8,7 @@ layout: null
 #### Version Available: `All Versions`
 
 ```typescript
-import { GridEvent } from '@transunion-ui/tablejs';
+import { GridEvent } from '@tablejs/community';
 ```
 
 #### Description:

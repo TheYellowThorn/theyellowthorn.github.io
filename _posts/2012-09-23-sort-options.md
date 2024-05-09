@@ -8,7 +8,7 @@ layout: null
 #### Version Available: `1.3.0 or higher, 2.0.0 or higher`
 
 ```typescript
-import { SortOptions } from '@transunion-ui/tablejs';
+import { SortOptions } from '@tablejs/community';
 ```
 
 #### Description:
@@ -49,7 +49,7 @@ A set of sorting options used for sorting an array of items. Implements `ISortOp
 In the `Typescript` example below, we are sorting the purchases array numerically and in ascending order.
 
 ```typescript
-import {SortOptions, SortComparator, FilterSortService} from '@transunion-ui/tablejs';
+import {SortOptions, SortComparator, FilterSortService} from '@tablejs/community';
 
 export class NextSortingDirection implements OnInit {
     priceSortOptions: SortOptions;
@@ -88,7 +88,7 @@ export class NextSortingDirection implements OnInit {
 In the `Typescript` example below, the purchases are sorted by name, item, and price.
 
 ```typescript
-import {SortOptions, SortComparator, FilterSortService} from '@transunion-ui/tablejs';
+import {SortOptions, SortComparator, FilterSortService} from '@tablejs/community';
 
 export class SortOrder implements OnInit {
     priceSortOptions: SortOptions;

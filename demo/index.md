@@ -5,7 +5,7 @@ layout: onelevelupdemo
   {% include top-nav.html %}
 </nav>
 <div class="demo-source">
-  Download <a href="https://github.com/transunion-ui/tablejs-demo" target="_blank">source</a> <a href="https://github.com/transunion-ui/tablejs-demo" target="_blank"><i class="fas fa-download"></i></a>
+  Download <a href="https://github.com/tablejs/community-demo" target="_blank">source</a> <a href="https://github.com/tablejs/community-demo" target="_blank"><i class="fas fa-download"></i></a>
 </div>
 <h1 id='navtitle'>{{ site.title }}</h1>
 

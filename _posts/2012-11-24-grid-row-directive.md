@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[tablejsGridRow]`
 ```typescript
-import { GridRowDirective } from '@transunion-ui/tablejs';
+import { GridRowDirective } from '@tablejs/community';
 ```
 
 #### Description:

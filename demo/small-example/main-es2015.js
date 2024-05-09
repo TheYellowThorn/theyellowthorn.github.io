@@ -761,7 +761,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/mgouwen/Desktop/Transunion/TuGridExamples2/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__("./src/main.ts");
 
 
 /***/ })

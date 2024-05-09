@@ -353,7 +353,6 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! /Users/mgouwen/Desktop/Transunion/TuGridExamples2/src/styles.scss */
     "./src/styles.scss");
     /***/
   }

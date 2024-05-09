@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[tablejsInfiniteScroll]`
 ```typescript
-import { InfiniteScrollDirective } from '@transunion-ui/tablejs'
+import { InfiniteScrollDirective } from '@tablejs/community'
 ```
 
 #### Description:

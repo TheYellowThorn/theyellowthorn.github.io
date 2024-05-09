@@ -1419,7 +1419,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! /Users/mgouwen/Desktop/Transunion/TuGridExamples2/src/main.ts */
     "./src/main.ts");
     /***/
   }

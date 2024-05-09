@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[reorderCol]`
 ```typescript
-import { ReorderColDirective } from '@transunion-ui/tablejs';
+import { ReorderColDirective } from '@tablejs/community';
 ```
 
 #### Description:

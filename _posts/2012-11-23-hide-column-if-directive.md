@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[tablejsHideColumnIf], [tablejshidecolumnif], [tablejs-hide-column-if]`
 ```typescript
-import { HideColumnIfDirective } from '@transunion-ui/tablejs';
+import { HideColumnIfDirective } from '@tablejs/community';
 ```
 
 #### Description:

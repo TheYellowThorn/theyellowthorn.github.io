@@ -92,7 +92,7 @@ THE SOFTWARE.
 @angular/platform-browser
 MIT
 
-@transunion-ui/tablejs
+@tablejs/community
 MIT
 
 core-js

@@ -6,7 +6,7 @@ layout: null
 ---
 
 ```typescript
-import { IColumnHideChange } from '@transunion-ui/tablejs';
+import { IColumnHideChange } from '@tablejs/community';
 ```
 
 #### Description: 

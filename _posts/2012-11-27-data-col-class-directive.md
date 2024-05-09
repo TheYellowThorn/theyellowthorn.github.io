@@ -9,7 +9,7 @@ layout: null
 
 ### Selector: `[tablejsDataColClass]`
 ```typescript
-import { DataColClassDirective } from '@transunion-ui/tablejs';
+import { DataColClassDirective } from '@tablejs/community';
 ```
 
 #### Description:

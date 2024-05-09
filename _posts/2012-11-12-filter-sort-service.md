@@ -8,7 +8,7 @@ layout: null
 #### Version Available: `1.3.0 or higher, 2.0.0 or higher`
 
 ```typescript
-import { FilterSortService } from '@transunion-ui/tablejs';
+import { FilterSortService } from '@tablejs/community';
 ```
 
 #### Description:
@@ -166,7 +166,7 @@ import { FilterSortService } from '@transunion-ui/tablejs';
 Below is a `Typescript` example that utilizes the `FilterSortService.filterAndSortItems` method to sort an array of objects that contain ID and name properties. The items are filtered and sorted based on a set of user-defined filter and sort options.
 
 ```typescript
-import {SortComparator, FilterComparator} from '@transunion-ui/tablejs';
+import {SortComparator, FilterComparator} from '@tablejs/community';
 
 export class FilterSortServiceExample {
     
