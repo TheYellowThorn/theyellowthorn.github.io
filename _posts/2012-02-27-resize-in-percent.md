@@ -103,5 +103,5 @@ Voila!  Your columns can now be resized and should look like this!
 <img src="../examples/images/resize_columns_in_percent.png" width="600" alt="Resize Columns in Percent" />
 
 <h3>Example of resizing columns calculated in percent</h3>
-<div>Open <a href="https://stackblitz.com/edit/tablejs-resize-percent" target="_blank">Example</a> in StackBlitz <a href="https://stackblitz.com/edit/tablejs-resize-percent" target="_blank"><i class="fas fa-external-link-alt"></i></a></div><p></p>
-<iframe width="100%" height="350px" src="https://stackblitz.com/edit/tablejs-resize-percent?ctl=1&embed=1&file=src/app/app.component.ts&hideExplorer=1&hideNavigation=1&theme=light&view=preview"></iframe>
+<div>Open <a href="https://stackblitz.com/edit/tablejs-community-resize-percent-ivy" target="_blank">Example</a> in StackBlitz <a href="https://stackblitz.com/edit/tablejs-community-resize-percent-ivy" target="_blank"><i class="fas fa-external-link-alt"></i></a></div><p></p>
+<iframe width="100%" height="350px" src="https://stackblitz.com/edit/tablejs-community-resize-percent-ivy?ctl=1&embed=1&file=src/app/app.component.ts&hideExplorer=1&hideNavigation=1&theme=light&view=preview"></iframe>
